@@ -1,0 +1,89 @@
+.imgclass {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  opacity: 1;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+  border-radius: 100px;
+  opacity: 0.2;
+}
+
+h1 {
+  color: #a8e6cf;
+  font-size: 75px;
+  text-align: center;
+  border-style: dotted;
+  border-color: #ffaaa5;
+  width: 800px;
+  margin: auto;
+  font-family: 'Sacramento', cursive;
+
+}
+
+h2 {
+  color: #ffaaa5;
+  font-size: 30px;
+  font-family: 'Sacramento', cursive;
+}
+
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#jenn {
+  width: 400px;
+  float: left;
+  text-align: center;
+}
+
+#ashley {
+  width: 400px;
+  float: right;
+  text-align: center;
+}
+
+#bodywrap {
+  width: 800px;
+  margin: 8px auto;
+  background-color: #dbffea;
+  border-style: dotted;
+  border-color: #ffaaa5;
+}
+
+#body_wrap:after {
+    content: " ";
+    display: table;
+    clear: both;
+}
+
+#table {
+ margin: 20%;
+ text-align: center;
+ font-family: 'Sacramento', cursive;
+ font-size: 25px;
+ color: #ffaaa5;
+ margin-bottom: 0px;
+}
+
+footer {
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+a:hover {
+  color: #ffaaa5;
+}
+
+img:hover {
+  opacity: 1;
+}
+
+#backtotop {
+  text-align: right;
+}
